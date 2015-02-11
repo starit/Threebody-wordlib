@@ -7,8 +7,8 @@
 ![import words](./词库导入方法说明.png)
 
 #官网下载链接
-搜狗输入法：
-[sogou]:http://pinyin.sogou.com/dict/detail/index/28415
-QQ拼音输入法
-[QQ]:http://dict.py.qq.com/cgi-bin/show_detail?ID=25784 
+##搜狗输入法：
+  http://pinyin.sogou.com/dict/detail/index/28415
+##QQ拼音输入法
+  http://dict.py.qq.com/cgi-bin/show_detail?ID=25784
 
